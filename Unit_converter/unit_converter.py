@@ -1,8 +1,5 @@
 import streamlit as st
 
-# Ye program units ko convert karne ke liye banaya gaya hai
-# Is mein meters se kilometers, kilometers se meters
-# grams se kilograms aur kilograms se grams ki conversion ki ja sakti hai
 
 # Ye function value ko aik unit se dosri unit main convert karta hai
 def convert_units(value, from_units, to_units):
